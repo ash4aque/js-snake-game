@@ -1,0 +1,25 @@
+body {
+  background:#fff;
+  color:#000;
+}
+canvas {
+    background:#fff;
+}
+#controls {
+    position:absolute;
+    top:0;
+    right:42%;
+    margin:10px;
+}
+
+#controls input {
+    float: left;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.text {
+    font-size:24px;
+}
